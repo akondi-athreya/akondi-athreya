@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+I'm Athreya curently Doing my Graduation At Aditya College Of Engineering
+I'm in a path of learning DSA and Development
 <!--
 **akondi-athreya/akondi-athreya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
