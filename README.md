@@ -1,7 +1,7 @@
 ## Hi there 👋
-I'm <h5>Athreya</h5> currently Doing my Graduation At Aditya College Of Engineering
+I'm Athreya currently Doing my Graduation At Aditya College Of Engineering
 <br/>
-I'm in a path of learning <h3>DSA and Development</h3>
+I'm in a path of learning DSA and Development
 <hr/>
 
 ## Programming Languages for CP ( Compititive Coding )
