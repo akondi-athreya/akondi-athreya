@@ -18,7 +18,7 @@ I'm in a path of learning DSA and Development
 
 ## Compiler's For Coding
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,idea,pycharm,sublime,java&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,idea,pycharm,sublime&theme=dark)](https://skillicons.dev)
 
 ## Editing 
 
@@ -28,7 +28,6 @@ I'm in a path of learning DSA and Development
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <h1>Follow Me On </h1>
-    <img src="https://skillicons.dev/icons?i=linkedin" href="https://www.linkedin.com/in/athreya-akondi-/" style="cursor: pointer;"/>
+    <img src="https://skillicons.dev/icons?i=linkedin"/>
   </a>
 </p>
