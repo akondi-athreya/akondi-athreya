@@ -4,7 +4,7 @@ I'm Athreya currently Doing my Graduation At Aditya College Of Engineering
 I'm in a path of learning DSA and Development
 <hr/>
 
-## Programming Languages for CP ( Compititive Coding )
+## Programming Languages for CP ( Compititive Programming )
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,py,java&theme=dark)](https://skillicons.dev)
 
