@@ -30,3 +30,11 @@ I'm in a path of learning DSA and Development
 <a href="https://www.linkedin.com/in/athreya-akondi-/">
   <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
+
+<hr/>
+<hr/>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akondi-athreya&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akondi-athreya&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=akondi-athreya&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=akondi-athreya&theme=2077)
