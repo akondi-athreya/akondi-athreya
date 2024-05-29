@@ -27,7 +27,9 @@ I'm in a path of learning DSA and Development
 <hr/>
 
 <p align="center">
+  <h1>Follow Me On </h1>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linkedin"/>
   </a>
+  <h1 style="cursor: pointer;">https://www.linkedin.com/in/athreya-akondi-/</h1>
 </p>
