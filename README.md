@@ -1,17 +1,34 @@
 ## Hi there 👋
 I'm Athreya curently Doing my Graduation At Aditya College Of Engineering
+<br/>
 I'm in a path of learning DSA and Development
-<!--
-**akondi-athreya/akondi-athreya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr/>
 
-Here are some ideas to get you started:
+## Programming Languages for CP ( Compititive Coding )
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,java&theme=dark)](https://skillicons.dev)
+
+<hr/>
+
+## Dev Skills
+
+[![My Programming Skills](https://skillicons.dev/icons?i=html,css,js,git,github,bootstrap,mongodb,mysql,nodejs,react,npm&theme=dark)](https://skillicons.dev)
+
+<hr/>
+
+## Compiler's For Coding
+
+[![My Skills](https://skillicons.dev/icons?i=vscode,idea,pycharm,sublime,java&theme=dark)](https://skillicons.dev)
+
+## Editing 
+
+[![My Skills](https://skillicons.dev/icons?i=ps,pr&theme=dark)](https://skillicons.dev)
+
+<hr/>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <h1>Follow Me On </h1>
+    <img src="https://skillicons.dev/icons?i=linkedin" href="https://www.linkedin.com/in/athreya-akondi-/" style="cursor: pointer;"/>
+  </a>
+</p>
