@@ -1,5 +1,5 @@
 ## Hi there 👋
-<center>
+
 I'm Athreya currently Doing my Graduation At Aditya College Of Engineering
 <br/>
 I'm in a path of learning DSA and Development
@@ -31,7 +31,7 @@ I'm in a path of learning DSA and Development
 <a href="https://www.linkedin.com/in/athreya-akondi-/">
   <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
-</center>
+
 <hr/>
 <hr/>
 
