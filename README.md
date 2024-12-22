@@ -1,7 +1,8 @@
 
-
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Athreya</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
+<img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/teenagers-composition-with-learning-study-symbols-isometric-vector-illustration_98292-9142.jpg?t=st=1734873624~exp=1734877224~hmac=e27c9b02a1214a01b2fc8481e166cfa3be78ba28d0bb9eae47c2f75fa2bc9c1e&w=1380" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akondi-athreya&label=Profile%20views&color=0e75b6&style=flat" alt="akondi-athreya" /> </p>
 
