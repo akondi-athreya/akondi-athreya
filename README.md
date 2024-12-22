@@ -1,4 +1,5 @@
 
+
 <h1 align="center">Hi 👋, I'm Athreya</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
 
@@ -28,8 +29,9 @@
 
 ![snake gif](https://github.com/akondi-athreya/akondi-athreya/blob/output/github-snake-dark.svg)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akondi-athreya&show_icons=true&locale=en&layout=compact" alt="akondi-athreya" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akondi-athreya&show_icons=true&locale=en" alt="akondi-athreya" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akondi-athreya&show_icons=true&theme=radical&title_color=ffffff&text_color=ffffff&locale=en&layout=compact" alt="akondi-athreya" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akondi-athreya&" alt="akondi-athreya" /></p>    
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akondi-athreya&show_icons=true&theme=radical&title_color=ffffff&text_color=ffffff&locale=en" alt="akondi-athreya" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akondi-athreya&theme=dark" alt="akondi-athreya" /></p>
