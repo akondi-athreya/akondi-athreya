@@ -27,111 +27,109 @@
 
 ### Languages and Tools
 
-<!-- Layout note: container uses inline flex so the label (left) stays vertically centered with the icons (right). Adjust label width if you want more/less spacing. -->
-<!-- Programming -->
-<p style="display:flex; align-items:center; gap:16px;">
-  <strong style="min-width:170px; text-align:left;">Programming:</strong>
-  <span>
-    <img src="https://skillicons.dev/icons?i=c" alt="C" width="40" height="40" style="margin-right:10px; vertical-align:middle;" />
-    <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="40" height="40" style="margin-right:10px; vertical-align:middle;" />
-    <img src="https://skillicons.dev/icons?i=java" alt="Java" width="40" height="40" style="margin-right:10px; vertical-align:middle;" />
-    <img src="https://skillicons.dev/icons?i=python" alt="Python" width="40" height="40" style="margin-right:10px; vertical-align:middle;" />
-    <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="40" height="40" style="margin-right:10px; vertical-align:middle;" />
-    <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="40" height="40" style="vertical-align:middle;" />
-  </span>
-</p>
+### Languages and Tools
 
-<!-- Frontend / UI -->
-<p style="display:flex; align-items:center; gap:16px;">
-  <strong style="min-width:170px; text-align:left;">Frontend / UI:</strong>
-  <span>
-    <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,tailwind,vite,materialui,figma" alt="frontend icons" width="40" height="40" style="margin-right:10px; vertical-align:middle;" />
-    <!-- React Native (direct SVG) -->
-    <a href="https://reactnative.dev/" target="_blank" rel="noreferrer" title="React Native">
-      <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40" style="margin-left:10px; margin-right:6px; vertical-align:middle; background:#ffffff11; border-radius:8px; padding:4px;" />
-    </a>
-    <!-- Expo (direct SVG) -->
-    <a href="https://expo.dev/" target="_blank" rel="noreferrer" title="Expo">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Expo_Logo.svg" alt="Expo" width="40" height="40" style="margin-left:6px; vertical-align:middle; background:#ffffff11; border-radius:8px; padding:6px;" />
-    </a>
-    <!-- Pandas (skillicons) -->
-    <img src="https://skillicons.dev/icons?i=pandas" alt="Pandas" width="40" height="40" style="margin-left:10px; vertical-align:middle;" />
-  </span>
-</p>
+<table>
+  <!-- Programming -->
+  <tr>
+    <td style="vertical-align:middle; padding:12px 16px; min-width:170px; font-weight:700;">Programming:</td>
+    <td style="vertical-align:middle; padding:12px 16px;">
+      <img src="https://skillicons.dev/icons?i=c,cpp,java,python,ts,js" height="40" />
+    </td>
+  </tr>
 
-<!-- Backend / APIs -->
-<p style="display:flex; align-items:center; gap:16px;">
-  <strong style="min-width:170px; text-align:left;">Backend / APIs:</strong>
-  <span>
-    <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,spring,maven,npm" alt="backend icons" width="40" height="40" style="margin-right:10px; vertical-align:middle;" />
-  </span>
-</p>
+  <!-- Frontend / UI -->
+  <tr>
+    <td style="vertical-align:middle; padding:12px 16px; font-weight:700;">Frontend / UI:</td>
+    <td style="vertical-align:middle; padding:12px 16px;">
+      <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,tailwind,vite,materialui,figma" height="40" />
+      <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
+        <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" height="40" style="margin-left:6px; vertical-align:middle;" />
+      </a>
+      <a href="https://expo.dev/" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Expo_Logo.svg" alt="Expo" height="40" style="margin-left:6px; vertical-align:middle;" />
+      </a>
+      <img src="https://skillicons.dev/icons?i=pandas" height="40" style="margin-left:6px;" />
+    </td>
+  </tr>
 
-<!-- Databases -->
-<p style="display:flex; align-items:center; gap:16px;">
-  <strong style="min-width:170px; text-align:left;">Databases:</strong>
-  <span>
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" alt="databases" width="40" height="40" style="margin-right:10px; vertical-align:middle;" />
-  </span>
-</p>
+  <!-- Backend -->
+  <tr>
+    <td style="vertical-align:middle; padding:12px 16px; font-weight:700;">Backend / APIs:</td>
+    <td style="vertical-align:middle; padding:12px 16px;">
+      <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,spring,maven,npm" height="40" />
+    </td>
+  </tr>
 
-<!-- AI / ML / Data -->
-<p style="display:flex; align-items:center; gap:16px;">
-  <strong style="min-width:170px; text-align:left;">AI / ML / Data:</strong>
-  <span>
-    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,scikitlearn,opencv,anaconda" alt="ai icons" width="40" height="40" style="margin-right:10px; vertical-align:middle;" />
-  </span>
-</p>
+  <!-- Databases -->
+  <tr>
+    <td style="vertical-align:middle; padding:12px 16px; font-weight:700;">Databases:</td>
+    <td style="vertical-align:middle; padding:12px 16px;">
+      <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" height="40" />
+    </td>
+  </tr>
 
-<!-- Tools & Editors -->
-<p style="display:flex; align-items:center; gap:16px;">
-  <strong style="min-width:170px; text-align:left;">Tools & Editors:</strong>
-  <span>
-    <!-- using tokens and a couple of direct links where tokens are sometimes flaky -->
-    <img src="https://skillicons.dev/icons?i=git,github,docker,firebase,postman,opencv,npm" alt="tools icons" width="40" height="40" style="margin-right:10px; vertical-align:middle;" />
-    <img src="https://skillicons.dev/icons?i=vscode,intellij,sublime,androidstudio" alt="editors" width="40" height="40" style="margin-right:10px; vertical-align:middle;" />
-    <!-- If any of the above tokens don't render for you, we can swap the single token to a direct SVG URL. -->
-  </span>
-</p>
+  <!-- AI / ML / Data -->
+  <tr>
+    <td style="vertical-align:middle; padding:12px 16px; font-weight:700;">AI / ML / Data:</td>
+    <td style="vertical-align:middle; padding:12px 16px;">
+      <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,scikitlearn,opencv,anaconda" height="40" />
+    </td>
+  </tr>
 
-<!-- Coding Platforms -->
-<p style="display:flex; align-items:center; gap:16px;">
-  <strong style="min-width:170px; text-align:left;">Coding Platforms:</strong>
-  <span>
-    <a href="YOUR_LEETCODE_URL" target="_blank" rel="noreferrer" title="LeetCode">
-      <img src="https://skillicons.dev/icons?i=leetcode" alt="LeetCode" width="40" height="40" style="margin-right:8px; vertical-align:middle;" />
-    </a>
-    <a href="YOUR_CODECHEF_URL" target="_blank" rel="noreferrer" title="CodeChef">
-      <img src="https://skillicons.dev/icons?i=codechef" alt="CodeChef" width="40" height="40" style="margin-right:8px; vertical-align:middle;" />
-    </a>
-    <a href="YOUR_CODEFORCES_URL" target="_blank" rel="noreferrer" title="Codeforces">
-      <img src="https://skillicons.dev/icons?i=codeforces" alt="Codeforces" width="40" height="40" style="margin-right:8px; vertical-align:middle;" />
-    </a>
-    <a href="YOUR_GFG_URL" target="_blank" rel="noreferrer" title="GeeksforGeeks">
-      <img src="https://skillicons.dev/icons?i=geeksforgeeks" alt="GeeksforGeeks" width="40" height="40" style="vertical-align:middle;" />
-    </a>
-  </span>
-</p>
+  <!-- Tools & Editors -->
+  <tr>
+    <td style="vertical-align:middle; padding:12px 16px; font-weight:700;">Tools & Editors:</td>
+    <td style="vertical-align:middle; padding:12px 16px;">
+      <img src="https://skillicons.dev/icons?i=git,github,docker,firebase,postman,vscode,androidstudio,sublime" height="40" />
+    </td>
+  </tr>
 
-<!-- Social / Contact / Portfolio -->
-<p style="display:flex; align-items:center; gap:16px;">
-  <strong style="min-width:170px; text-align:left;">Social / Contact / Portfolio:</strong>
-  <span>
-    <a href="YOUR_DISCORD_LINK" target="_blank" rel="noreferrer" title="Discord">
-      <img src="https://skillicons.dev/icons?i=discord" alt="Discord" width="40" height="40" style="margin-right:8px; vertical-align:middle;" />
-    </a>
-    <a href="YOUR_INSTAGRAM_LINK" target="_blank" rel="noreferrer" title="Instagram">
-      <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="40" height="40" style="margin-right:8px; vertical-align:middle;" />
-    </a>
-    <a href="YOUR_LINKEDIN_LINK" target="_blank" rel="noreferrer" title="LinkedIn">
-      <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" height="40" style="margin-right:8px; vertical-align:middle;" />
-    </a>
-    <a href="YOUR_PORTFOLIO_LINK" target="_blank" rel="noreferrer" title="Portfolio">
-      <!-- portfolio using a generic website token; change to your own logo if you like -->
-      <img src="https://skillicons.dev/icons?i=website&theme=light" alt="Portfolio" width="40" height="40" style="vertical-align:middle;" />
-    </a>
-  </span>
-</p>
+  <!-- Coding Platforms -->
+  <tr>
+    <td style="vertical-align:middle; padding:12px 16px; font-weight:700;">Coding Platforms:</td>
+    <td style="vertical-align:middle; padding:12px 16px;">
+      <!-- LeetCode -->
+      <a href="YOUR_LEETCODE_URL" target="_blank" rel="noreferrer" title="LeetCode">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="40" style="margin-right:10px;" />
+      </a>
+      <!-- CodeChef -->
+      <a href="YOUR_CODECHEF_URL" target="_blank" rel="noreferrer" title="CodeChef">
+        <img src="https://cdn.codechef.com/sites/default/files/uploads/pictures/5a73809c13988e7b3f3c7a98e6b4e2b3.png" alt="CodeChef" height="40" style="margin-right:10px; border-radius:6px;" />
+      </a>
+      <!-- Codeforces -->
+      <a href="YOUR_CODEFORCES_URL" target="_blank" rel="noreferrer" title="Codeforces">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Codeforces_logo.svg" alt="Codeforces" height="40" style="margin-right:10px;" />
+      </a>
+      <!-- GeeksforGeeks -->
+      <a href="YOUR_GFG_URL" target="_blank" rel="noreferrer" title="GeeksforGeeks">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" height="40" style="margin-right:10px;" />
+      </a>
+    </td>
+  </tr>
+
+  <!-- Socials -->
+  <tr>
+    <td style="vertical-align:middle; padding:12px 16px; font-weight:700;">Social / Contact / Portfolio:</td>
+    <td style="vertical-align:middle; padding:12px 16px;">
+      <a href="YOUR_DISCORD_LINK" target="_blank" rel="noreferrer" title="Discord">
+        <img src="https://skillicons.dev/icons?i=discord" height="40" style="margin-right:10px;" />
+      </a>
+      <a href="YOUR_INSTAGRAM_LINK" target="_blank" rel="noreferrer" title="Instagram">
+        <img src="https://skillicons.dev/icons?i=instagram" height="40" style="margin-right:10px;" />
+      </a>
+      <a href="YOUR_LINKEDIN_LINK" target="_blank" rel="noreferrer" title="LinkedIn">
+        <img src="https://skillicons.dev/icons?i=linkedin" height="40" style="margin-right:10px;" />
+      </a>
+      <a href="YOUR_PORTFOLIO_LINK" target="_blank" rel="noreferrer" title="Portfolio">
+        <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="Portfolio" height="40" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+
+
 
 
 ![snake gif](https://github.com/akondi-athreya/akondi-athreya/blob/output/github-snake-dark.svg)
