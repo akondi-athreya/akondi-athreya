@@ -126,13 +126,24 @@
 
 ![snake gif](https://github.com/akondi-athreya/akondi-athreya/blob/output/github-snake-dark.svg)
 
+<!-- SUMMARY + LANGUAGES (WORKING) -->
 <div style="display: flex; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akondi-athreya&layout=compact&theme=radical" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=akondi-athreya&show_icons=true&theme=radical" height="150"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akondi-athreya&theme=radical" height="200" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akondi-athreya&theme=radical" height="200" />
 </div>
 
-<img src="https://github-profile-trophy.vercel.app/?username=akondi-athreya&theme=radical"/>
+<br/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akondi-athreya&theme=dark" alt="akondi-athreya" /></p>
+<!-- FOLLOWERS + STARS BADGES (WORKING) -->
+<div>
+  <img src="https://img.shields.io/github/followers/akondi-athreya?style=flat-square" />
+  <img src="https://img.shields.io/github/stars/akondi-athreya?style=flat-square" />
+</div>
 
+<br/>
+
+<!-- STREAK (WORKING AND UNCHANGED) -->
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akondi-athreya&theme=dark" alt="akondi-athreya" />
+</p>
 
