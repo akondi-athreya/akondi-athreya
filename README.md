@@ -126,11 +126,13 @@
 
 ![snake gif](https://github.com/akondi-athreya/akondi-athreya/blob/output/github-snake-dark.svg)
 
+<div style="display: flex; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akondi-athreya&layout=compact&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=akondi-athreya&show_icons=true&theme=radical" height="150"/>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akondi-athreya&show_icons=true&theme=radical&title_color=ffffff&text_color=ffffff&locale=en&layout=compact" alt="akondi-athreya" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akondi-athreya&show_icons=true&theme=radical&title_color=ffffff&text_color=ffffff&locale=en" alt="akondi-athreya" /></p>
+<img src="https://github-profile-trophy.vercel.app/?username=akondi-athreya&theme=radical"/>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akondi-athreya&theme=dark" alt="akondi-athreya" /></p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akondi-athreya" alt="akondi-athreya" /></a> </p>
+
 
