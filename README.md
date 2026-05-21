@@ -61,15 +61,15 @@
     </td>
   </tr>
 
-  <!-- Streaming & Data -->
+  <!-- Streaming & Data Engineering -->
   <tr>
     <td style="vertical-align:middle; padding:12px 16px; font-weight:700;">Data Engineering & Streaming:</td>
     <td style="vertical-align:middle; padding:12px 16px;">
-      <img src="https://simpleicons.org/icons/apachekafka.svg" alt="Apache Kafka" height="40" style="margin-right:10px;" />
-      <span style="display:inline-block; margin-right:10px; font-weight:600;">Debezium</span>
-      <span style="display:inline-block; margin-right:10px; font-weight:600;">Fluentd</span>
-      <span style="display:inline-block; margin-right:10px; font-weight:600;">HashiCorp Vault</span>
-      <span style="display:inline-block; font-weight:600;">MLflow</span>
+      <img src="https://cdn.simpleicons.org/apachekafka" alt="Apache Kafka" height="40" style="margin-right:10px; filter: invert(1);" />
+      <img src="https://cdn.simpleicons.org/fluentd" alt="Fluentd" height="40" style="margin-right:10px;" />
+      <img src="https://cdn.simpleicons.org/mlflow" alt="MLflow" height="40" style="margin-right:10px;" />
+      <span style="display:inline-block; margin-right:10px; font-weight:600; vertical-align:middle;">Debezium</span>
+      <span style="display:inline-block; font-weight:600; vertical-align:middle;">HashiCorp Vault</span>
     </td>
   </tr>
 
