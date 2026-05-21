@@ -7,14 +7,14 @@
 - 🌱 I'm a passionate full-stack developer skilled in **Designing, Developing, Testing**, and integrating **Generative AI** into real-world applications.  
   I specialize in architecting scalable, production-grade systems with a focus on building efficient, user-centric solutions across AI/ML, FinTech, and Cloud Engineering domains.
 
-- ⚙️ I have hands-on experience with **DevOps practices** and **Deployment pipelines**, including working with tools like **Docker, Kafka, AWS, Kubernetes**, and **CI/CD workflows** to automate and optimize deployment processes for highly scalable systems.
+- ⚙️ I have hands-on experience with **DevOps practices** and **Deployment pipelines**, including working with tools like **Docker, Kafka, AWS**, and automating deployment processes for highly scalable systems.
 
 - 💡 My core strengths lie in **Full Stack Development** (MERN Stack, Next.js, React Native), **AI-driven applications** (LLMs, Computer Vision, NLP), **Data Engineering** (CDC, Log Aggregation, Stream Processing), and writing clean, maintainable, and performance-oriented code.  
   I love transforming complex ideas into simple, elegant digital experiences while maintaining architectural excellence.
 
 - 🚀 I'm always exploring cutting-edge technologies in **Generative AI**, **Machine Learning**, **Cloud Engineering**, and **Distributed Systems** to stay ahead of the curve and bring innovation to every project.
 
-- 🎓 Currently pursuing a degree in **Artificial Intelligence and Machine Learning** at Aditya College of Engineering (2022-2026).
+- 🎓 Completed my degree in **Artificial Intelligence and Machine Learning** at Aditya College of Engineering (2022-2026). Open to work and exciting opportunities!
 
 - 📫 Feel free to reach out to me at **akondiathreya@gmail.com** — I'm always open to collaboration, learning, and building exciting projects together.
 
@@ -84,10 +84,8 @@
   <tr>
     <td style="vertical-align:middle; padding:12px 16px; font-weight:700;">Data Engineering & Streaming:</td>
     <td style="vertical-align:middle; padding:12px 16px;">
-      <span style="display:inline-block; margin-right:10px;">Apache Kafka</span>
-      <span style="display:inline-block; margin-right:10px;">Debezium</span>
-      <span style="display:inline-block; margin-right:10px;">Fluentd</span>
-      <span style="display:inline-block; margin-right:10px;">HashiCorp Vault</span>
+      <img src="https://skillicons.dev/icons?i=kafka,debezium,fluentd" height="40" />
+      <span style="display:inline-block; margin-left:10px; margin-right:10px;">HashiCorp Vault</span>
       <span style="display:inline-block;">MLflow</span>
     </td>
   </tr>
@@ -136,7 +134,7 @@
 - **Data Engineering**: Apache Kafka, Debezium, CDC, Log Aggregation with Fluentd, Stream Processing
 - **Databases**: MongoDB, PostgreSQL, Redis, Firebase
 - **System Design**: CQRS, Repository Pattern, Multi-Tenancy, Circuit Breakers, Bulkhead Pattern
-- **DevOps & Infrastructure**: Docker, Kubernetes, AWS, CI/CD, HashiCorp Vault
+- **Cloud & DevOps**: Docker, AWS, HashiCorp Vault
 
 ---
 
