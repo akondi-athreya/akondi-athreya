@@ -9,10 +9,10 @@
 
 - ⚙️ I have hands-on experience with **DevOps practices** and **Deployment pipelines**, including working with tools like **Docker, Kafka, AWS**, and automating deployment processes for highly scalable systems.
 
-- 💡 My core strengths lie in **Full Stack Development** (MERN Stack, Next.js, React Native), **AI-driven applications** (LLMs, Computer Vision, NLP), **Data Engineering** (CDC, Log Aggregation, Stream Processing), and writing clean, maintainable, and performance-oriented code.  
+- 💡 My core strengths lie in **Full Stack Development** (MERN Stack, Next.js, React Native), **AI-driven applications** (LLMs, Computer Vision, NLP), **Data Engineering** (CDC, Log Aggregation, Stream Processing).
   I love transforming complex ideas into simple, elegant digital experiences while maintaining architectural excellence.
 
-- 🚀 I'm always exploring cutting-edge technologies in **Generative AI**, **Machine Learning**, **Cloud Engineering**, and **Distributed Systems** to stay ahead of the curve and bring innovation to every project.
+- 🚀 I'm always exploring cutting-edge technologies in **Generative AI**, **Machine Learning**, **Cloud Engineering**, and **Distributed Systems** to stay ahead of the curve and bring innovation to projects.
 
 - 🎓 Completed my degree in **Artificial Intelligence and Machine Learning** at Aditya College of Engineering (2022-2026). Open to work and exciting opportunities!
 
@@ -65,7 +65,7 @@
   <tr>
     <td style="vertical-align:middle; padding:12px 16px; font-weight:700;">Data Engineering & Streaming:</td>
     <td style="vertical-align:middle; padding:12px 16px;">
-      <img src="https://cdn.simpleicons.org/apachekafka" alt="Apache Kafka" height="40" style="margin-right:10px;color:"#fff;" />
+      <img src="https://cdn.simpleicons.org/apachekafka?color=fff" alt="Apache Kafka" height="40" style="margin-right:10px;" />
       <img src="https://cdn.simpleicons.org/fluentd" alt="Fluentd" height="40" style="margin-right:10px;" />
       <img src="https://cdn.simpleicons.org/mlflow" alt="MLflow" height="40" style="margin-right:10px;" />
       <span style="display:inline-block; margin-right:10px; font-weight:600; vertical-align:middle;">Debezium</span>
