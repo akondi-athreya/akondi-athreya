@@ -54,10 +54,22 @@
   <tr>
     <td style="vertical-align:middle; padding:12px 16px; font-weight:700;">Databases & Infrastructure:</td>
     <td style="vertical-align:middle; padding:12px 16px;">
-      <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,docker,kafka" height="40" />
+      <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,docker" height="40" />
       <a href="https://www.firebase.google.com/" target="_blank" rel="noreferrer">
         <img src="https://skillicons.dev/icons?i=firebase" height="40" style="margin-left:6px;" />
       </a>
+    </td>
+  </tr>
+
+  <!-- Streaming & Data -->
+  <tr>
+    <td style="vertical-align:middle; padding:12px 16px; font-weight:700;">Data Engineering & Streaming:</td>
+    <td style="vertical-align:middle; padding:12px 16px;">
+      <img src="https://simpleicons.org/icons/apachekafka.svg" alt="Apache Kafka" height="40" style="margin-right:10px;" />
+      <span style="display:inline-block; margin-right:10px; font-weight:600;">Debezium</span>
+      <span style="display:inline-block; margin-right:10px; font-weight:600;">Fluentd</span>
+      <span style="display:inline-block; margin-right:10px; font-weight:600;">HashiCorp Vault</span>
+      <span style="display:inline-block; font-weight:600;">MLflow</span>
     </td>
   </tr>
 
@@ -77,16 +89,6 @@
     <td style="vertical-align:middle; padding:12px 16px; font-weight:700;">Tools & Editors:</td>
     <td style="vertical-align:middle; padding:12px 16px;">
       <img src="https://skillicons.dev/icons?i=git,github,docker,aws,postman,vscode,androidstudio,linux" height="40" />
-    </td>
-  </tr>
-
-  <!-- Specialized Technologies -->
-  <tr>
-    <td style="vertical-align:middle; padding:12px 16px; font-weight:700;">Data Engineering & Streaming:</td>
-    <td style="vertical-align:middle; padding:12px 16px;">
-      <img src="https://skillicons.dev/icons?i=kafka,debezium,fluentd" height="40" />
-      <span style="display:inline-block; margin-left:10px; margin-right:10px;">HashiCorp Vault</span>
-      <span style="display:inline-block;">MLflow</span>
     </td>
   </tr>
 
