@@ -143,22 +143,22 @@
 ![snake gif](https://github.com/akondi-athreya/akondi-athreya/blob/output/github-snake-dark.svg)
 
 <!-- SUMMARY + LANGUAGES (WORKING) -->
-<div style="display: flex; gap: 10px;">
+<!-- <div style="display: flex; gap: 10px;">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akondi-athreya&theme=radical" height="200" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akondi-athreya&theme=radical" height="200" />
-</div>
+</div> -->
 
-<br/>
+<!-- <br/> -->
 
 <!-- FOLLOWERS + STARS BADGES (WORKING) -->
-<div>
+<!-- <div>
   <img src="https://img.shields.io/github/followers/akondi-athreya?style=flat-square" />
   <img src="https://img.shields.io/github/stars/akondi-athreya?style=flat-square" />
-</div>
+</div> -->
 
-<br/>
+<!-- <br/> -->
 
 <!-- STREAK (WORKING AND UNCHANGED) -->
-<p>
+<!-- <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akondi-athreya&theme=dark" alt="akondi-athreya" />
-</p>
+</p> -->
