@@ -14,32 +14,22 @@
 │ location : India
 │ email    : akondiathreya@gmail.com
 ╰─ status   : open to opportunities
-
 ╭─ whoami
 │ Engineering-focused developer building
-│ scalable, user-centric systems.
-╰─ domains
-  full-stack · AI engineering · data engineering
-  cloud engineering · distributed systems · FinTech
-
+╰─ mission   : learn · build · iterate
 ╭─ workspace
 │ os        : macOS
 │ ide       : Visual Studio Code
-│ workflow  : learn · build · iterate
 ╰─ hobbies
-  exploring the internet for new technology
-  coding, building projects, and sharpening my skills
-  developing deeper expertise in the tools I use
-
+  explore new tech · code · build projects
+  sharpen skills · deepen my expertise
 ╭─ interests
-│ competitive programming
-│ AI Engineering
-│ Cloud Infrastructure
+│ Competitive Programming
+│ AI Engineering · Cloud Infrastructure
 │ Web3
 ╰─ education
-  Artificial Intelligence and Machine Learning
-  Aditya College of Engineering · 2022–2026
-
+  AI & ML · Aditya College of Engineering
+  2022–2026
 $ echo "always learning, always building"
 always learning, always building</pre>
     </td>
