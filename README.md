@@ -1,4 +1,53 @@
-[![MasterHead](./mario.gif)](#)
+[![MasterHead](./mario-cropped.gif)](#)
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>┌─[ athreya@portfolio ]─[ ~/about ]</h3>
+      <img src="./ascii-art.png" alt="Terminal-style ASCII art" width="100%" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>┌─[ athreya@portfolio ]─[ ~/profile ]</h3>
+      <pre>╭─ identity
+│ name     : Athreya Akondi
+│ role     : Full Stack Developer
+│ location : India
+│ email    : akondiathreya@gmail.com
+╰─ status   : open to opportunities
+
+╭─ whoami
+│ Engineering-focused developer building
+│ scalable, user-centric systems.
+╰─ domains
+  full-stack · AI engineering · data engineering
+  cloud engineering · distributed systems · FinTech
+
+╭─ workspace
+│ os        : macOS
+│ ide       : Visual Studio Code
+│ workflow  : learn · build · iterate
+╰─ hobbies
+  exploring the internet for new technology
+  coding, building projects, and sharpening my skills
+  developing deeper expertise in the tools I use
+
+╭─ interests
+│ competitive programming
+│ AI Engineering
+│ Cloud Infrastructure
+│ Web3
+╰─ education
+  Artificial Intelligence and Machine Learning
+  Aditya College of Engineering · 2022–2026
+
+$ echo "always learning, always building"
+always learning, always building</pre>
+    </td>
+  </tr>
+</table>
+
+---
+
 <h1 align="center">Hi 👋, I'm Athreya</h1>
 <h3 align="center">An engineering-focused Full Stack Developer from India</h3>
 
@@ -7,7 +56,7 @@
 - 🌱 I'm a passionate full-stack developer skilled in **Designing, Developing, Testing**, and integrating **Generative AI** into real-world applications.  
   I specialize in architecting scalable, production-grade systems with a focus on building efficient, user-centric solutions across AI/ML, FinTech, and Cloud Engineering domains.
 
-- ⚙️ I have hands-on experience with **DevOps practices** and **Deployment pipelines**, including working with tools like **Docker, Kafka, AWS**, and automating deployment processes for highly scalable systems.
+- ⚙️ I have hands-on experience with **DevOps practices** and **Deployment pipelines**, including containerization with **Docker** and automating deployment processes for highly scalable systems.
 
 - 💡 My core strengths lie in **Full Stack Development** (MERN Stack, Next.js, React Native), **AI-driven applications** (LLMs, Computer Vision, NLP), **Data Engineering** (CDC, Log Aggregation, Stream Processing).
   I love transforming complex ideas into simple, elegant digital experiences while maintaining architectural excellence.
@@ -127,10 +176,6 @@
         <img src="https://cdn.simpleicons.org/springboot/6DB33F" alt="Spring Boot" height="20" style="vertical-align: middle; margin-right: 6px;" />
         <span style="vertical-align: middle; font-weight: 500;">Spring Boot</span>
       </a>
-      <a href="https://maven.apache.org/" target="_blank" rel="noreferrer" style="text-decoration: none; color: inherit; margin: 4px 8px; display: inline-block;">
-        <img src="https://cdn.simpleicons.org/apachemaven/C71A36" alt="Maven" height="20" style="vertical-align: middle; margin-right: 6px;" />
-        <span style="vertical-align: middle; font-weight: 500;">Maven</span>
-      </a>
       <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer" style="text-decoration: none; color: inherit; margin: 4px 8px; display: inline-block;">
         <img src="https://cdn.simpleicons.org/npm/CB3837" alt="npm" height="20" style="vertical-align: middle; margin-right: 6px;" />
         <span style="vertical-align: middle; font-weight: 500;">npm</span>
@@ -160,14 +205,6 @@
         <img src="https://cdn.simpleicons.org/redis/FF4438" alt="Redis" height="20" style="vertical-align: middle; margin-right: 6px;" />
         <span style="vertical-align: middle; font-weight: 500;">Redis</span>
       </a>
-      <a href="https://www.docker.com/" target="_blank" rel="noreferrer" style="text-decoration: none; color: inherit; margin: 4px 8px; display: inline-block;">
-        <img src="https://cdn.simpleicons.org/docker/2496ED" alt="Docker" height="20" style="vertical-align: middle; margin-right: 6px;" />
-        <span style="vertical-align: middle; font-weight: 500;">Docker</span>
-      </a>
-      <a href="https://firebase.google.com/" target="_blank" rel="noreferrer" style="text-decoration: none; color: inherit; margin: 4px 8px; display: inline-block;">
-        <img src="https://cdn.simpleicons.org/firebase/FFCA28" alt="Firebase" height="20" style="vertical-align: middle; margin-right: 6px;" />
-        <span style="vertical-align: middle; font-weight: 500;">Firebase</span>
-      </a>
     </td>
   </tr>
 
@@ -181,50 +218,42 @@
         <img src="https://cdn.simpleicons.org/apachekafka/231F20/fff" alt="Apache Kafka" height="20" style="vertical-align: middle; margin-right: 6px;" />
         <span style="vertical-align: middle; font-weight: 500;">Apache Kafka</span>
       </a>
-      <a href="https://www.fluentd.org/" target="_blank" rel="noreferrer" style="text-decoration: none; color: inherit; margin: 4px 8px; display: inline-block;">
-        <img src="https://cdn.simpleicons.org/fluentd/0F80C1" alt="Fluentd" height="20" style="vertical-align: middle; margin-right: 6px;" />
-        <span style="vertical-align: middle; font-weight: 500;">Fluentd</span>
-      </a>
-      <a href="https://mlflow.org/" target="_blank" rel="noreferrer" style="text-decoration: none; color: inherit; margin: 4px 8px; display: inline-block;">
-        <img src="https://cdn.simpleicons.org/mlflow/0194E2" alt="MLflow" height="20" style="vertical-align: middle; margin-right: 6px;" />
-        <span style="vertical-align: middle; font-weight: 500;">MLflow</span>
-      </a>
-      <span style="margin: 4px 8px; display: inline-block;">
-        <span style="vertical-align: middle; font-weight: 500; padding: 2px 8px; border: 1.5px solid currentColor; border-radius: 4px; font-size: 0.85em; opacity: 0.85; margin-right: 6px; display: inline-block; line-height: 1.2;">Debezium</span>
-      </span>
-      <a href="https://www.vaultproject.io/" target="_blank" rel="noreferrer" style="text-decoration: none; color: inherit; margin: 4px 8px; display: inline-block;">
-        <img src="https://cdn.simpleicons.org/vault/000/fff" alt="HashiCorp Vault" height="20" style="vertical-align: middle; margin-right: 6px;" />
-        <span style="vertical-align: middle; font-weight: 500;">HashiCorp Vault</span>
-      </a>
     </td>
   </tr>
 
   <!-- AI / ML / Data -->
   <tr>
     <td style="vertical-align: middle; padding: 12px 16px; font-weight: 700;">
-      🧠 AI / ML / Data
+      🧠 AI Engineering
     </td>
     <td style="vertical-align: middle; padding: 12px 16px;">
-      <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer" style="text-decoration: none; color: inherit; margin: 4px 8px; display: inline-block;">
-        <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" alt="TensorFlow" height="20" style="vertical-align: middle; margin-right: 6px;" />
-        <span style="vertical-align: middle; font-weight: 500;">TensorFlow</span>
-      </a>
-      <a href="https://pytorch.org/" target="_blank" rel="noreferrer" style="text-decoration: none; color: inherit; margin: 4px 8px; display: inline-block;">
-        <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" alt="PyTorch" height="20" style="vertical-align: middle; margin-right: 6px;" />
-        <span style="vertical-align: middle; font-weight: 500;">PyTorch</span>
-      </a>
-      <a href="https://opencv.org/" target="_blank" rel="noreferrer" style="text-decoration: none; color: inherit; margin: 4px 8px; display: inline-block;">
-        <img src="https://cdn.simpleicons.org/opencv/5C3EE8" alt="OpenCV" height="20" style="vertical-align: middle; margin-right: 6px;" />
-        <span style="vertical-align: middle; font-weight: 500;">OpenCV</span>
-      </a>
-      <a href="https://www.anaconda.com/" target="_blank" rel="noreferrer" style="text-decoration: none; color: inherit; margin: 4px 8px; display: inline-block;">
-        <img src="https://cdn.simpleicons.org/anaconda/44A833" alt="Anaconda" height="20" style="vertical-align: middle; margin-right: 6px;" />
-        <span style="vertical-align: middle; font-weight: 500;">Anaconda</span>
-      </a>
       <a href="https://huggingface.co/" target="_blank" rel="noreferrer" style="text-decoration: none; color: inherit; margin: 4px 8px; display: inline-block;">
         <img src="https://cdn.simpleicons.org/huggingface/FFD21E" alt="Hugging Face" height="20" style="vertical-align: middle; margin-right: 6px;" />
         <span style="vertical-align: middle; font-weight: 500;">Hugging Face</span>
       </a>
+      <a href="https://www.langchain.com/" target="_blank" rel="noreferrer" style="text-decoration: none; color: inherit; margin: 4px 8px; display: inline-block;">
+        <span style="vertical-align: middle; font-weight: 500;">LangChain</span>
+      </a>
+      <a href="https://langchain-ai.github.io/langgraph/" target="_blank" rel="noreferrer" style="text-decoration: none; color: inherit; margin: 4px 8px; display: inline-block;">
+        <span style="vertical-align: middle; font-weight: 500;">LangGraph</span>
+      </a>
+      <span style="margin: 4px 8px; display: inline-block;"><span style="vertical-align: middle; font-weight: 500;">RAG</span></span>
+    </td>
+  </tr>
+
+  <!-- DevOps & Observability -->
+  <tr>
+    <td style="vertical-align: middle; padding: 12px 16px; font-weight: 700;">🚀 DevOps</td>
+    <td style="vertical-align: middle; padding: 12px 16px;">
+      <a href="https://www.docker.com/" target="_blank" rel="noreferrer" style="text-decoration: none; color: inherit; margin: 4px 8px; display: inline-block;"><img src="https://cdn.simpleicons.org/docker/2496ED" alt="Docker" height="20" style="vertical-align: middle; margin-right: 6px;" /><span style="vertical-align: middle; font-weight: 500;">Docker</span></a>
+      <a href="https://opentelemetry.io/" target="_blank" rel="noreferrer" style="text-decoration: none; color: inherit; margin: 4px 8px; display: inline-block;"><img src="https://cdn.simpleicons.org/opentelemetry/F5A800" alt="OpenTelemetry" height="20" style="vertical-align: middle; margin-right: 6px;" /><span style="vertical-align: middle; font-weight: 500;">OpenTelemetry</span></a>
+    </td>
+  </tr>
+  <tr>
+    <td style="vertical-align: middle; padding: 12px 16px; font-weight: 700;">📈 Observability</td>
+    <td style="vertical-align: middle; padding: 12px 16px;">
+      <a href="https://prometheus.io/" target="_blank" rel="noreferrer" style="text-decoration: none; color: inherit; margin: 4px 8px; display: inline-block;"><img src="https://cdn.simpleicons.org/prometheus/E6522C" alt="Prometheus" height="20" style="vertical-align: middle; margin-right: 6px;" /><span style="vertical-align: middle; font-weight: 500;">Prometheus</span></a>
+      <a href="https://grafana.com/" target="_blank" rel="noreferrer" style="text-decoration: none; color: inherit; margin: 4px 8px; display: inline-block;"><img src="https://cdn.simpleicons.org/grafana/F46800" alt="Grafana" height="20" style="vertical-align: middle; margin-right: 6px;" /><span style="vertical-align: middle; font-weight: 500;">Grafana</span></a>
     </td>
   </tr>
 
@@ -242,10 +271,6 @@
         <img src="https://cdn.simpleicons.org/github/181717/fff" alt="GitHub" height="20" style="vertical-align: middle; margin-right: 6px;" />
         <span style="vertical-align: middle; font-weight: 500;">GitHub</span>
       </a>
-      <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer" style="text-decoration: none; color: inherit; margin: 4px 8px; display: inline-block;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" height="20" style="vertical-align: middle; margin-right: 6px;" />
-        <span style="vertical-align: middle; font-weight: 500;">AWS</span>
-      </a>
       <a href="https://www.postman.com/" target="_blank" rel="noreferrer" style="text-decoration: none; color: inherit; margin: 4px 8px; display: inline-block;">
         <img src="https://cdn.simpleicons.org/postman/FF6C37" alt="Postman" height="20" style="vertical-align: middle; margin-right: 6px;" />
         <span style="vertical-align: middle; font-weight: 500;">Postman</span>
@@ -253,14 +278,6 @@
       <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer" style="text-decoration: none; color: inherit; margin: 4px 8px; display: inline-block;">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="VS Code" height="20" style="vertical-align: middle; margin-right: 6px;" />
         <span style="vertical-align: middle; font-weight: 500;">VS Code</span>
-      </a>
-      <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer" style="text-decoration: none; color: inherit; margin: 4px 8px; display: inline-block;">
-        <img src="https://cdn.simpleicons.org/androidstudio/3DDC84" alt="Android Studio" height="20" style="vertical-align: middle; margin-right: 6px;" />
-        <span style="vertical-align: middle; font-weight: 500;">Android Studio</span>
-      </a>
-      <a href="https://www.linux.org/" target="_blank" rel="noreferrer" style="text-decoration: none; color: inherit; margin: 4px 8px; display: inline-block;">
-        <img src="https://cdn.simpleicons.org/linux/FCC624" alt="Linux" height="20" style="vertical-align: middle; margin-right: 6px;" />
-        <span style="vertical-align: middle; font-weight: 500;">Linux</span>
       </a>
     </td>
   </tr>
@@ -329,11 +346,11 @@
 ### 🎯 Key Expertise Areas
 
 - **Full Stack Development**: React, Next.js, React Native | Node.js, Express, FastAPI, Spring Boot
-- **AI/ML Engineering**: LLM Prompt Routing, BERT-based models, Computer Vision, NLP, Ollama, MLflow
-- **Data Engineering**: Apache Kafka, Debezium, CDC, Log Aggregation with Fluentd, Stream Processing
-- **Databases**: MongoDB, PostgreSQL, Redis, Firebase
+- **AI Engineering**: LLM Prompt Routing, BERT-based models, NLP, Ollama, LangChain, LangGraph, RAG
+- **Data Engineering**: Apache Kafka, CDC, Stream Processing
+- **Databases**: MongoDB, PostgreSQL, Redis
 - **System Design**: CQRS, Repository Pattern, Multi-Tenancy, Circuit Breakers, Bulkhead Pattern
-- **Cloud & DevOps**: Docker, AWS, HashiCorp Vault
+- **DevOps & Observability**: Docker, OpenTelemetry, Prometheus, Grafana
 
 ---
 
